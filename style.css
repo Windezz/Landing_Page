@@ -6,6 +6,10 @@ body {
     justify-content: space-between;
 }
 
+a {
+    color: white;
+}
+
 header {
     background-color: #1f2937;
     padding-top: 5px;
@@ -47,6 +51,10 @@ header .hero {
     margin-left: 150px;
     margin-right: 150px;
     gap: 75px;
+}
+
+.logo {
+    text-align: center;
 }
 
 header .hero h1 {
